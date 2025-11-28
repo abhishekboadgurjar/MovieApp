@@ -1,4 +1,4 @@
-# 🎬 Movie App  
+# 🎬 Movie App
 
 A **React Native** application that fetches movie data from the **OMDb API** and displays them in a user-friendly interface. Users can **search for movies**, view **movie details**, and explore additional information such as **ratings, plot, cast, and release year**.  
 
